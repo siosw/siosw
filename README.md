@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siosw
-- 👀 I’m interested in building cool products
+- 👀 I’m interested in distributed systems
 - 🌱 I’m currently learning about zero knowledge circuits
 - 📫 How to reach me hi [at] simonoswald [dot] xyz
 
